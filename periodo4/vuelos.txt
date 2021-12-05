@@ -1,0 +1,14 @@
+San Salvador,Miami
+Miami,Paris
+Paris,Hong Kong
+San Salvador,Bogota
+Bogota,Paris
+Miami,San Francisco
+San Salvador,Madrid
+Madrid,Guatemala
+Guatemala,San Salvador
+San Salvador,Berlin
+San Salvador,Londres
+San Salvador,Taipei
+Cali,Johannesburgo
+Barcelona,Tokio
